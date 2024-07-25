@@ -1,0 +1,6 @@
+int drawable exchange 0x0
+int string amount 0x0
+int string converted_amount 0x0
+int string currency_convertor 0x0
+int string currency_convertor_description 0x0
+int string indicative_exhange_rate 0x0

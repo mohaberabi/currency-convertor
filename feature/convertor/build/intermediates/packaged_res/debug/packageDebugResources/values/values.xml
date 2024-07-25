@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amount">Amoun\n</string>
+    <string name="converted_amount">Converted Amount\n</string>
+    <string name="currency_convertor">Currency Convertor\n</string>
+    <string name="currency_convertor_description">"Convert Any Currency "</string>
+    <string name="indicative_exhange_rate">"Last Indicated Exchange Rate Time "</string>
+</resources>
